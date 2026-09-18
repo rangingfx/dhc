@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dawoodhilalalharbi.com/sitemap.xml
